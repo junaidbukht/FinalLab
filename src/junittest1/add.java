@@ -1,7 +1,9 @@
 package junittest1;
 
 public class add {
-public int addition(int a , int b){
+
+	//this is adding two numbers
+	public int addition(int a , int b){
 		
 		
 		
